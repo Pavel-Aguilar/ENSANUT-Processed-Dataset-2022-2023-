@@ -13,7 +13,7 @@ import seaborn as sns
 import matplotlib.gridspec as gridspec
 import math
 
-df = pd.read_csv("ENSANUT_final_ingles.csv")
+df = pd.read_csv("health_survey_adolescent_ENSANUT_2022-2023.csv")
 
 
 header('COLUMNS AND ROWS')
